@@ -48,7 +48,7 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 
 | Project | Description | Status |
 |---|---|---|
-| **[Líonra](https://lìonra.com)** | Main platform — lab, blog, open projects | 🟢 Live |
+| **[Líonra](https://lìonra.com)** | Main platform, lab, blog, open projects | 🟢 Live |
 | **[Líonra · Image](https://image.lìonra.com)** | Image compression & conversionn tool | 🟢 Live |
 | **[Líonra · QRGen](https://qrgen.lìonra.com)** | Custom QR code generator | 🟢 Live |
 | **Líonra · CSS** | Generate CSS | 🔨 Building |
