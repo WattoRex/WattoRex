@@ -1,15 +1,27 @@
-### Lìonra
-**Web developer — JavaScript**
+<div align="center">
+
+# Valentin — Web Developer
+
+**I build Líonra** · A living web platform — tools, UI lab, open projects.
+
+[![Website](https://img.shields.io/badge/lionra.fr-2f7a52?style=flat&logo=googlechrome&logoColor=fff)](https://ton-domaine.fr)
+[![GitHub](https://img.shields.io/badge/GitHub-WattoRex-181717?style=flat&logo=github)](https://github.com/WattoRex)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Líonra-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/líonra/)
+[![npm](https://img.shields.io/badge/npm-lionra-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/lionra-sharepanel)
+
+</div>
 
 ---
 
-I write clean, dependency-free JavaScript.  
-I care about the web platform itself — the DOM, the Event Loop, the browser APIs that most devs skip.  
-Occasionally React, when the project calls for it.
+I write clean, purposeful front-end code — mostly vanilla JS, occasionally React when the project calls for it.
+
+I care about the web platform itself: the DOM, browser APIs, performance, and the craft of building things that work without a framework holding your hand.
+
+**Líonra** is my main project — a platform I'm growing around one idea: build useful things, share them openly, and keep the web human.
 
 ---
 
-**Stack**
+## Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
@@ -21,22 +33,13 @@ Occasionally React, when the project calls for it.
 
 ---
 
-**Projects**
+## Líonra ecosystem
 
-| Project | Description | |
+| Project | Description | Status |
 |---|---|---|
-| [**lionra-sharepanel**](https://github.com/lionra/lionra-sharepanel) | Zero-dependency share panel — 19 platforms, 4 layouts, mobile deep links. One file. | `vanilla JS` `UMD` `i18n` |
-| **Next project** | *Something's brewing. Zero deps, as usual.* | `WIP` |
+| **[Líonra](https://ton-domaine.fr)** | Main platform — lab, blog, open projects | 🟢 Live |
+| **Líonra · Image** | Image processing & optimization tool | 🔨 Building |
+| **Líonra · QRGene** | Custom QR code generator | 🔨 Building |
+| **[lionra-sharepanel](https://github.com/WattoRex/lionra-sharepanel)** | Zero-dependency share panel, 19 platforms, one file | ✅ Published |
 
 ---
-
-**A few numbers**
-
-```
-0 dependencies in prod   ·   19 platforms supported   ·   MIT — always open source
-```
-
----
-
-🟢 Currently working on **lionra-sharepanel** — feedback welcome  
-📦 [npmjs.com/package/lionra-sharepanel](https://www.npmjs.com/package/lionra-sharepanel)
