@@ -23,6 +23,8 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 
 ---
 
+<div align="center">
+
 ## Stack
 
 **Front-end**  
@@ -44,7 +46,11 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
 ![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat&logo=discord&logoColor=fff)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## Líonra ecosystem
 
@@ -56,6 +62,9 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 | **Líonra · CSS** | Generate CSS | 🔨 Building |
 | **Líonra · CV** | Generate CV with multiple template | 🔨 Building |
 | **[lionra-sharepanel](https://github.com/WattoRex/lionra-sharepanel)** | Share panel, 19 platforms, 4 layout | ✅ Published |
+
+
+</div>
 
 ---
 
