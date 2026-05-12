@@ -25,8 +25,6 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 
 ## Stack
 
-<div align="center">
-
 **Front-end**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
@@ -45,8 +43,6 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 **Tooling**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
 ![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat&logo=discord&logoColor=fff)
-
-</div>
 
 ---
 
