@@ -46,7 +46,7 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 
 ---
 
-## Líonra ecosystem
+## Líonra ecosystem ( website only ) 
 
 <div align="center">
 
