@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-WattoRex-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/líonra/)
 [![npm](https://img.shields.io/badge/npm-WattoRex-CB3837?style=flat&logo=npm)](https://www.npmjs.com/~wattorex?activeTab=packages)
 
-![Languages](https://github-cards-crc5.onrender.com/Languages/WattoRex?theme=forest&private=true&archived=true)
+![Languages](https://github-cards-crc5.onrender.com/Languages/WattoRex?theme=forest&private=true&archived=true&exclude_langs=Hack&show_repo_count=true)
 
 </div>
 
