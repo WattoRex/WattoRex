@@ -19,6 +19,9 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 
 **Líonra** is my main project, a platform I'm growing around one idea: build useful things, share them openly, and keep the web human.
 
+![Stats](https://github-cards-crc5.onrender.com//stats/your-username?theme=forest)
+![Languages](https://github-cards-crc5.onrender.com//languages/your-username?theme=forest)
+
 ---
 
 ## Stack
