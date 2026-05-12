@@ -63,10 +63,14 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 
 ## Other Projects
 
+<div align="center">
+
 | Project | Description | Status |
 |---|---|---|
 | **[Sharepanel](https://github.com/WattoRex/lionra-sharepanel)** | Share panel, 19 platforms, 4 layout | ✅ Published |
 | **[Github-cards](https://github.com/WattoRex/github-cards)** | Stats and Languages Card for GitHub Profile. | ✅ Published |
+
+</div>
 
 ---
 
