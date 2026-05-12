@@ -9,6 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-WattoRex-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/líonra/)
 [![npm](https://img.shields.io/badge/npm-WattoRex-CB3837?style=flat&logo=npm)](https://www.npmjs.com/~wattorex?activeTab=packages)
 
+![Languages](https://github-cards-crc5.onrender.com/Languages/WattoRex?theme=forest)
+
 </div>
 
 ---
@@ -18,8 +20,6 @@ I write clean, purposeful front-end code, mostly vanilla JS, occasionally React 
 I care about the web platform itself: the DOM, browser APIs, performance, and the craft of building things that work without a framework holding your hand.
 
 **Líonra** is my main project, a platform I'm growing around one idea: build useful things, share them openly, and keep the web human.
-
-![Languages](https://github-cards-crc5.onrender.com/Languages/WattoRex?theme=forest)
 
 ---
 
