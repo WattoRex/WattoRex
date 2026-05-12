@@ -57,7 +57,6 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 | **[Líonra · QRGen](https://qrgen.lìonra.com)** | Custom QR code generator | 🟢 Live |
 | **Líonra · CSS** | Generate CSS | 🔨 Building |
 | **Líonra · CV** | Generate CV with multiple template | 🔨 Building |
-| **[lionra-sharepanel](https://github.com/WattoRex/lionra-sharepanel)** | Share panel, 19 platforms, 4 layout | ✅ Published |
 
 </div>
 
@@ -67,7 +66,7 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 
 | Project | Description | Status |
 |---|---|---|
-| **[Sharepanel](https://github.com/WattoRex/lionra-sharepanel)** | Share panel, 19 platforms, 4 layout | ✅ Published |
+| **[Sharepanel](https://github.com/WattoRex/sharepanel)** | Share panel, 19 platforms, 4 layout | ✅ Published |
 | **[Github-cards](https://github.com/WattoRex/github-cards)** | Stats and Languages Card for GitHub Profile. | ✅ Published |
 
 </div>
