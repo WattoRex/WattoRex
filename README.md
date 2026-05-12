@@ -2,7 +2,7 @@
 
 # Valentin — Web Developer
 
-**I build Líonra** · A living web platform — tools, UI lab, open projects.
+**I build Líonra** · A living web platform ; tools, UI lab, open projects.
 
 [![Website](https://img.shields.io/badge/lionra.fr-2f7a52?style=flat&logo=googlechrome&logoColor=fff)]([(https://lìonra.com)])
 [![GitHub](https://img.shields.io/badge/GitHub-WattoRex-181717?style=flat&logo=github)](https://github.com/WattoRex)
