@@ -61,6 +61,13 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 
 </div>
 
+## Other Projects
+
+| Project | Description | Status |
+|---|---|---|
+| **[Sharepanel](https://github.com/WattoRex/lionra-sharepanel)** | Share panel, 19 platforms, 4 layout | ✅ Published |
+| **[Github-cards](https://github.com/WattoRex/github-cards)** | Stats and Languages Card for GitHub Profile. | ✅ Published |
+
 ---
 
 🟢 Currently building out the Líonra ecosystem, feedback always welcome
