@@ -4,7 +4,7 @@
 
 **I build Líonra** · A living web platform ; tools, UI lab, open projects.
 
-[![Website](https://img.shields.io/badge/lionra.fr-2f7a52?style=flat&logo=googlechrome&logoColor=fff)]([(https://xn--lonra-zsa.com/)])
+[![Website](https://img.shields.io/badge/lionra.fr-2f7a52?style=flat&logo=googlechrome&logoColor=fff)]([(https://líonra.com/)])
 [![GitHub](https://img.shields.io/badge/GitHub-WattoRex-181717?style=flat&logo=github)](https://github.com/WattoRex)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-WattoRex-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/líonra/)
 [![npm](https://img.shields.io/badge/npm-WattoRex-CB3837?style=flat&logo=npm)](https://www.npmjs.com/~wattorex?activeTab=packages)
