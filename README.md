@@ -57,6 +57,7 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 | **[Líonra · QRGen](https://qrgen.líonra.com)** | Custom QR code generator | 🟢 Live |
 | **Líonra · CSS** | Generate CSS | 🔨 Building |
 | **Líonra · CV** | Generate CV with multiple template | 🔨 Building |
+| **Líonra · PDF** | PDF modification & compression tool | 🔨 Building |
 
 </div>
 
