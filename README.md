@@ -58,6 +58,7 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 | **Líonra · CSS** | Generate CSS | 🔨 Building |
 | **[Líonra · CV](https://cv.xn--lonra-zsa.com)** | Generate CV with multiple template | 🟢 Live |
 | **Líonra · PDF** | PDF modification & compression tool | 🔨 Building |
+| **[Líonra · Note](https://note.xn--lonra-zsa.com)** | Note WebApp serverless | 🟢 Live |
 
 </div>
 
