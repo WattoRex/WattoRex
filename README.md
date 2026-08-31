@@ -69,6 +69,7 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 | Project | Description | Status |
 |---|---|---|
 | **[Sharepanel](https://github.com/WattoRex/Lionra-sharepanel)** | Share panel, 19 platforms, 4 layout | ✅ Published |
+| **[CookieConsent](https://github.com/WattoRex/Lionra-Cookie-Consent)** | Cookie Consent panel, 3 layout, consent panel  | ✅ Published |
 | **[Github-cards](https://github.com/WattoRex/github-cards)** | Stats and Languages Card for GitHub Profile. | ✅ Published |
 
 </div>
