@@ -71,7 +71,7 @@ I care about the web platform itself: the DOM, browser APIs, performance, and th
 | **[Sharepanel](https://github.com/WattoRex/Lionra-sharepanel)** | Share panel, 19 platforms, 4 layout | ✅ Published |
 | **[CookieConsent](https://github.com/WattoRex/Lionra-Cookie-Consent)** | Cookie Consent panel, 3 layout, consent panel  | ✅ Published |
 | **[Github-cards](https://github.com/WattoRex/github-cards)** | Stats and Languages Card for GitHub Profile. | ✅ Published |
-| **[SignalRGB Effects](https://github.com/WattoRex/Effects_SignalRGB)** | 15 custom lighting effects (static, key press, audio) merged into 3 packs to stay under SignalRGB's free 10-file limit. | ✅ Published |
+| **[SignalRGB Effects](https://github.com/WattoRex/Effects_SignalRGB)** | 15 custom lighting effects for SignalRGB. | ✅ Published |
 
 </div>
 
